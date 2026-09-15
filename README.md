@@ -4,6 +4,7 @@
 [![Kotlin](https://img.shields.io/badge/Kotlin-2.2.0-7F52FF?logo=kotlin&logoColor=white)](https://kotlinlang.org)
 [![Jetpack Compose](https://img.shields.io/badge/UI-Jetpack_Compose_Material3-4285F4?logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose)
 [![Architecture](https://img.shields.io/badge/Architecture-MVVM_%2B_LifecycleService-00C853)](#architecture)
+[![Release](https://img.shields.io/badge/Release-APK_v1.0.0-00C853?logo=android&logoColor=white)](https://github.com/vennamprasad/DeskGuard/releases/latest)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 **DeskGuard** turns any standard Android device into a covert **Wi-Fi RF disturbance sensor and automated physical anti-tamper perimeter**. 
@@ -25,7 +26,7 @@ By passively tracking micro-fluctuations in ambient Wi-Fi beacon signals (**Fres
   <br />
   <sub>▶️ <b>Click the radar preview or badge above to play the full demo video in GitHub's native video player.</b></sub>
   <br />
-  <sub>📦 <em>Alternate direct download: <a href="https://github.com/vennamprasad/DeskGuard/releases/download/v1.0.0/deskguard.mp4"><code>deskguard.mp4 (Release v1.0.0)</code></a></em></sub>
+  <sub>📦 <a href="https://github.com/vennamprasad/DeskGuard/releases/download/v1.0.0/deskguard.mp4"><code>deskguard.mp4 (Release v1.0.0)</code></a> &nbsp;|&nbsp; 📲 <a href="https://github.com/vennamprasad/DeskGuard/releases/download/v1.0.0/DeskGuard-v1.0.0.apk"><b>DeskGuard-v1.0.0.apk (Ready to Install)</b></a></sub>
 </p>
 
 ---
