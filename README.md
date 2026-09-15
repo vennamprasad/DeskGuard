@@ -24,12 +24,6 @@ By passively tracking micro-fluctuations in ambient Wi-Fi beacon signals (**Fres
   <sub>▶️ If video playback is not embedded in your markdown viewer, you can view it directly at <a href="docs/deskguard.mp4"><b><code>docs/deskguard.mp4</code></b></a>.</sub>
 </p>
 
-### 📸 Screenshots
-
-| 📡 Tactical Radar HUD & Oscilloscope | 🛡️ System Audit, Logs & Intruder Captures |
-| :---: | :---: |
-| <img src="docs/screenshots/deskguard_hud.png" width="380" alt="DeskGuard Radar HUD" /> | <img src="docs/screenshots/deskguard_logs.png" width="380" alt="DeskGuard System Logs" /> |
-
 ---
 
 ## ⚡ Why DeskGuard?
