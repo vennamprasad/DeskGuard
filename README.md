@@ -140,7 +140,7 @@ DeskGuard operates with full respect for user privacy and security:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/prasoft/DeskGuard.git
+   git clone https://github.com/vennamprasad/DeskGuard.git
    cd DeskGuard
    ```
 
