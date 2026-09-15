@@ -12,16 +12,20 @@ By passively tracking micro-fluctuations in ambient Wi-Fi beacon signals (**Fres
 
 ---
 
-## 🎬 Live Demo & Visuals
+## 🎬 Live Demo
 
-### 📹 App Walkthrough Video
 <p align="center">
-  <video src="docs/deskguard.mp4" controls width="100%" style="max-width: 680px;" poster="docs/screenshots/deskguard_hud.png">
-    <a href="docs/deskguard.mp4">▶️ Watch / Download Demo Video (docs/deskguard.mp4)</a>
-  </video>
-</p>
-<p align="center">
-  <sub>▶️ If video playback is not embedded in your markdown viewer, you can view it directly at <a href="docs/deskguard.mp4"><b><code>docs/deskguard.mp4</code></b></a>.</sub>
+  <a href="https://github.com/vennamprasad/DeskGuard/blob/main/docs/deskguard.mp4">
+    <img src="docs/screenshots/deskguard_hud.png" width="420" alt="Click to Watch DeskGuard Video Demo" />
+  </a>
+  <br />
+  <a href="https://github.com/vennamprasad/DeskGuard/blob/main/docs/deskguard.mp4">
+    <img src="https://img.shields.io/badge/▶%EF%B8%8F_Watch_Live_Demo_Video-Click_Here-00C853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Watch Demo" />
+  </a>
+  <br />
+  <sub>▶️ <b>Click the radar preview or badge above to play the full demo video in GitHub's native video player.</b></sub>
+  <br />
+  <sub>📦 <em>Alternate direct download: <a href="https://github.com/vennamprasad/DeskGuard/releases/download/v1.0.0/deskguard.mp4"><code>deskguard.mp4 (Release v1.0.0)</code></a></em></sub>
 </p>
 
 ---
